@@ -1,7 +1,7 @@
 # ProjektDB
 Repozytorium do wysłania na zaliczenie przedmiotu 
 
-Poniższe dwa pliki to moja baza danych sklepu komiksowego. 
+Poniższe pliki to moja baza danych sklepu komiksowego. 
 
 Plik PHP zawiera zmienne konfiguracyjne, które są używane do połączenia z bazą danych MySQL. 
 
